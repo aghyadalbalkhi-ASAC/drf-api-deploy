@@ -16,4 +16,4 @@ Actual time needed to complete: 2 H
 Write Down By @Aghyad Albalkhi
 
 The  heroku Link : 
-https://devices-hub.herokuapp.com/
+https://devices-hub.herokuapp.com/api/v1/getdevice/
